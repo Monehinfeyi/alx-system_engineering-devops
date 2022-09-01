@@ -1,3 +1,4 @@
+
 TASK=[0x01. Shell, permissions]
 THIS DIRECTORY CONTAINS SOME COMMANDS WHICH ARE USED TO SET PERMISSION IN LINUX AND THEY ARE TO RUN IN UBUNTU 20.04 LTS AND ALSO CONTAINS SCRIPTS
 
@@ -84,6 +85,28 @@ mkdir -m 751 my_dir
 #!/bin/bash
 chgrp school hello
 
+[14. Owner and group] - This script changes the owner to "vincent" and the group owner to "staff" for all the files and directories in the working directory.
+
+#!/bin/bash
+chown -R vicent:staff ./
+
+[15. Symbolic links] -This script changes the owner and the group owner of "_hello" to "vincent" and "staff" respectively.
+-The file "_hello" is in the working directory
+-The file "_hello" is a symbolic link
+
+#!/bin/bash
+chown -h betty:holberton _hello
+
+[16. If only] -This script changes the owner of the file "hello" to "betty" only if it is owned by the user "guillaume".
+The file "hello" will be in the working directory.
+
+#!/bin/bash
+chown --from=guillaume betty hello
+
+[17. Star Wars] -This script will play the StarWars IV episode in the terminal.
+
+#!/bin/bash
+telnet towel.blinkenlights.nl
 
 
 
