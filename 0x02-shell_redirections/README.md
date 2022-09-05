@@ -14,4 +14,21 @@ grep - This command examines each line of data it receives from standard input a
 
 NOTE: It is not all commands used in this project are mentioned above
 
+### SCRIPTS 
+
+ 0. Hello World - This script prints “Hello, World”, followed by a new line to the standard output.
+
+#!/bin/bash
+echo "Hello, World"
+
+ 1. Confused smiley -This script displays a confused smiley "(Ôo)'.
+
+#!/bin/bash
+echo "\"(Ôo)'"
+
+ 2. Let's display a file - This script displays the content of the /etc/passwd file.\
+
+#!/bin/bash
+cat /etc/passwd
+
  
