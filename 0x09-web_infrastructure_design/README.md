@@ -50,18 +50,27 @@ Web Applications Infrastructure/Web Infrastructure also called internet infrastr
 ## THIS PROJECT WAS HANDLED BY:
 
 ### 1. MONEHIN FEYISARA
+
 >    EMAIL: monehinstephen@gmail.com
+
 >    COUNTRY: Nigeria
+
 >    PROFESSION: Software Engineer | AI Engineer | Front end dev | Graphic Designer
 
 ###  2. SUNDAY AUDU
+
 >   EMAIL:
+
 >   COUNTRY: Nigeria
+
 >   PROFESSION: Software Engineer
 
 
 ###  3. TAGBOR SIMON
+
 >   EMAIL:
+
 >   COUNTRY:
-PROFESSION: Software Engineer 
+
+>   PROFESSION: Software Engineer 
  
