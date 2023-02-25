@@ -68,9 +68,9 @@ Web Applications Infrastructure/Web Infrastructure also called internet infrastr
 
 ###  3. TAGBOR SIMON
 
->   EMAIL:
+>   EMAIL: simontagbor360@gmail.com
 
->   COUNTRY:
+>   COUNTRY: Ghana
 
 >   PROFESSION: Software Engineer 
  
