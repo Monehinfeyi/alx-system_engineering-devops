@@ -10,11 +10,12 @@ Web Applications Infrastructure/Web Infrastructure also called internet infrastr
 
 ## Learning Objectives
 
-- You must be able to draw a diagram covering the web stack you built with the `*sysadmin/devops*` track projects
-- You must be able to explain what each component is doing
-- You must be able to explain `system redundancy`
-- Know all the mentioned acronyms: `LAMP`, `SPOF`, `QPS`
+- In this project we learned how to draw a diagram to represent  the web stack built in `*sysadmin/devops*` track of ALX SE School project work.
+- We discussed what each component of the diagram is doing
+- Our team explored the concept of `system redundancy`
+- We had fun discussing important web infrastructure design acronyms: `LAMP`, `SPOF`, `QPS`
 
+#### Here is the design we came up with 
 
 ## Simple Web Infrastructure
 
@@ -68,9 +69,9 @@ Web Applications Infrastructure/Web Infrastructure also called internet infrastr
 
 ###  3. TAGBOR SIMON
 
->   EMAIL:
+>   EMAIL: simontagbor360@gmail.com
 
->   COUNTRY:
+>   COUNTRY: Ghana
 
 >   PROFESSION: Software Engineer 
  
