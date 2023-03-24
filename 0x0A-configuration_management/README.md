@@ -45,3 +45,13 @@ You do **not** need to attempt to upgrade versions. This project is simply a set
 
 **Install puppet-lint**
 ``$ gem install puppet-lint``
+
+
+
+### AUTHOR:
+
+> MONEHIN FEYISARA
+
+> EMAIL: monehinfeyisara.d@gmail.com
+
+> COUNTRY: Nigeria
